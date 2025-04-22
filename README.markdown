@@ -39,7 +39,7 @@ To run the notebook, you need the following:
 
 ## Author
 
-- \Mahmoud Youssef\
+- Mahmoud Youssef
 
 
 ## License
