@@ -40,7 +40,7 @@ To run the notebook, you need the following:
 ## Author
 
 - Mahmoud Youssef
-
+- Weronika Wójcik
 
 ## License
 
